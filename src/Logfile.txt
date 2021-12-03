@@ -8,7 +8,7 @@ Maximum ATM: 10
 
 BEGIN (Account Backup Data)
 AccountOpen: 1
-Account Number: 0002 (1638549214)
+Account Number: 0002 (1638553711)
 Name: ARIHANT BARJATYA
 Address: GAYA, BIHAR, INDIA
 AccountPassword: aSD1234#
@@ -30,9 +30,10 @@ Time: 18/03/2021 12:33:31:PM Action: Bank Closed By: Manager
 Time: 10/03/2021 05:29:10:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed By: Manager
 
 AccountOpen: 1
-Account Number: 0003 (1638549214)
+Account Number: 0003 (1638553711)
 Name: NIRMAY PATEL
 Address: GUJRAT, INDIA
 AccountPassword: aSD1234!
@@ -54,9 +55,10 @@ Time: 10/03/2021 05:29:10:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 10:03:17:PM Action: withdrawn 230.150000 By: self
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed By: Manager
 
 AccountOpen: 1
-Account Number: 0001 (1638549214)
+Account Number: 0001 (1638553711)
 Name: ANKIT RAUSHAN
 Address: PATNA, BIHAR, INDIA, 800003
 AccountPassword: aSD1234@
@@ -91,9 +93,10 @@ Time: 18/03/2021 12:33:31:PM Action: Bank Closed By: Manager
 Time: 10/03/2021 05:29:10:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed By: Manager
 
 AccountOpen: 1
-Account Number: 0004 (1638549214)
+Account Number: 0004 (1638553711)
 Name: ASHISH SUNDRIYAL
 Address: ALMODA, HIMACHAL PRADESH, INDIA
 AccountPassword: aSD1234&
@@ -113,9 +116,10 @@ Time: 10/03/2021 05:29:10:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 09:53:57:PM Action: withdrawn 1000.000000 By: self
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed By: Manager
 
 AccountOpen: 1
-Account Number: 0005 (1638549214)
+Account Number: 0005 (1638553711)
 Name: Ayush Kumar
 Address: noida, delhi
 AccountPassword: Ayush1234$$
@@ -134,6 +138,21 @@ Time: 18/03/2021 12:33:31:PM Action: Bank Closed By: Manager
 Time: 10/03/2021 05:29:10:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed By: Manager
+
+AccountOpen: 1
+Account Number: 0006 (1638553711)
+Name: Prakash Chand
+Address: IIT Guwahati
+AccountPassword: Asdf1234@
+ATMstatus: 3
+ATMPIN: 1111
+Balance: 1234.89
+LOGDATA
+Time: 03/12/2021 11:17:44:PM Action: Account opened  By: Self
+Time: 03/12/2021 11:17:44:PM Action: first deposit of 1234.890000 By: Self
+Time: 03/12/2021 11:17:52:PM Action: ATM activated.  By: self
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed By: Manager
 
 END (Account Backup Data)
 
@@ -173,6 +192,11 @@ Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: Bank Opened By: manager
 Time: 03/12/2021 10:02:36:PM Action: Account Information accessed By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: Bank Opened By: manager
+Time: 03/12/2021 11:17:44:PM Action: Account number 0006 opened By: Self
+Time: 03/12/2021 11:17:52:PM Action: Account number 0006 activated ATM. By: Self
+Time: 03/12/2021 11:18:12:PM Action: Account Information accessed By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 END (Banklogs)
 
 BEGIN (ATMlogs)
@@ -193,6 +217,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 002
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -212,6 +238,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 003
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -230,6 +258,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 004
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -249,6 +279,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 005
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -269,6 +301,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 006
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -289,6 +323,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 007
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -308,6 +344,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 008
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -326,6 +364,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 009
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -345,6 +385,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 ATMID: 010
 Time: 22/02/2021 06:31:49:PM Action: ATM online !!! By: Manager
@@ -364,6 +406,8 @@ Time: 03/12/2021 09:52:47:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 09:54:07:PM Action: Bank Closed. By: Manager
 Time: 03/12/2021 10:02:19:PM Action: ATM online !!! By: Manager
 Time: 03/12/2021 10:03:34:PM Action: Bank Closed. By: Manager
+Time: 03/12/2021 11:16:03:PM Action: ATM online !!! By: Manager
+Time: 03/12/2021 11:18:31:PM Action: Bank Closed. By: Manager
 
 END (ATMlogs)
 
